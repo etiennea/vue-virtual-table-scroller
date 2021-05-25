@@ -18,7 +18,5 @@
   ],
   "author": "Miguel Coder",
   "license": "MIT",
-  "dependencies": {
-    "firebase-tools": "^6.4.0"
-  }
+  "dependencies": {}
 }
